@@ -1,4 +1,9 @@
 ## Hi there 👋
+Preferred Languages:
+- Java
+- Python
+
+🌱 I’m currently studying computer science at ODU.
 
 <!--
 **DerrickS33/DerrickS33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

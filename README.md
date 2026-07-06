@@ -1,21 +1,55 @@
-## Hi there 👋
-Preferred Languages:
-- Java
-- Python
+# Hi, I'm Derrick Stewart 👋
 
-🌱 I’m currently studying computer science at ODU.
+A recent Computer Science graduate from Old Dominion University actively seeking full time Software Engineering opportunities.
 
-<!--
-**DerrickS33/DerrickS33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focused on strengthening my software engineering fundamentals and expanding my portfolio. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### AI Producer Assistant
+
+A full-stack web application that helps music producers generate AI-powered marketing assets for their beats.
+
+**Problem Solved**
+Music producers spend significant time creating titles, descriptions, tags, and promotional content before publishing their music. AI Producer Assistant automates that workflow.
+
+**Tech Stack**
+React, TypeScript, FastAPI, PostgreSQL, OpenAI API, JWT Authentication
+
+**Highlights**
+- Built and deployed a complete full-stack application
+- Implemented secure user authentication using JWT
+- Integrated AI-powered content generation
+- Created project saving and history functionality
+- Deployed production-ready frontend and backend
+
+🔗 Repository: [AI Producer Assistant](https://github.com/DerrickS33/ai-producer-assistant.git)
+
+---
+
+### Smart City Mobile Application
+
+A mobile application designed to help citizens navigate city resources, share information, and engage with their community.
+
+**Tech Stack**
+React Native, Expo, TypeScript, REST APIs
+
+**Highlights**
+- Built forum functionality for community discussion
+- Developed authentication and profile management features
+- Implemented mobile-first user interfaces
+- Collaborated within an Agile team environment
+
+🔗 Repository: [Smart City Project](https://github.com/westonc25/smart-city-team-gold.git)
+
+---
+
+
+## Let's Connect
+
+📧 stewartderrick96@gmail.com
+
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/derrick-stewart-497212389/)
